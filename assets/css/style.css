@@ -90,10 +90,10 @@ ul, li {
   position: relative;
   border-bottom: 1px solid #e1e1e1;
   padding: 0 30px 10px;
-  color: #0aabe1;
+  color: #78b453;
 }
 .title h2:after {
-  background: none repeat scroll 0 0 #0aabe1;
+  background: none repeat scroll 0 0 #78b453;
   bottom: -1px;
   content: "";
   height: 1px;
@@ -182,9 +182,9 @@ h6 {
 */
 
 .btn {
-  color: #0aabe1;
+  color: #78b453;
   background: transparent;
-  border: 1px solid #0aabe1;
+  border: 1px solid #78b453;
   font-family: 'Dosis', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
@@ -204,7 +204,7 @@ h6 {
   left: 50%;
   width: 0px;
   height: 0px;
-  background: #0aabe1;
+  background: #78b453;
   -webkit-transition: all .4s ease;
      -moz-transition: all .4s ease;
       -ms-transition: all .4s ease;
@@ -638,7 +638,7 @@ section.banner-carousel {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  background: #0aabe1;
+  background: #78b453;
   border-radius: 2px;
   -webkit-transition: .3s ease;
      -moz-transition: .3s ease;
@@ -707,7 +707,7 @@ h2 {
 }
 h3 {
   font-weight: 600; 
-  color: #0aabe1;
+  color: #78b453;
 }
 .intro .fa {
   display: inline-block;
@@ -1138,7 +1138,7 @@ section.video {
   margin-bottom: 20px;
 }
 .price-header {
-  background: #0aabe1;
+  background: #78b453;
   padding:20px;
   text-align: center;
   height: 180px;
@@ -1158,7 +1158,7 @@ section.video {
 }
 .price-header .fa {
   font-size: 50px;
-  color: #0aabe1;
+  color: #78b453;
   line-height: 1.8;
   width: 155px;
   height:155px;
@@ -1178,7 +1178,7 @@ section.video {
 }
 .price {
   font-family: 'Dosis', sans-serif;
-  color: #0aabe1;
+  color: #78b453;
   font-size: 20px; 
 }
 .month {
@@ -1242,7 +1242,7 @@ section.video {
 }
 .support-block:hover,
 .support-block.active {
-  background: #0aabe1;
+  background: #78b453;
 }
 .support-block:hover h3, 
 .support-block:hover p,
@@ -1253,10 +1253,10 @@ section.video {
 .support-block:hover .fa,
 .support-block.active .fa {
   background: #fff;
-  color: #0aabe1;
-  box-shadow: 0px 0px 0px 10px #0aabe1;
-  -webkit-box-shadow: 0px 0px 0px 10px #0aabe1;
-  -moz-box-shadow: 0px 0px 0px 10px #0aabe1;
+  color: #78b453;
+  box-shadow: 0px 0px 0px 10px #78b453;
+  -webkit-box-shadow: 0px 0px 0px 10px #78b453;
+  -moz-box-shadow: 0px 0px 0px 10px #78b453;
 }
 .support-block h3 {
   font-family: 'Raleway', sans-serif;
@@ -1276,7 +1276,7 @@ section.video {
   font-size: 30px;
   line-height: 2;
   color: #fff;
-  background: #0aabe1;
+  background: #78b453;
   border-radius: 50%;
   box-shadow: 0px 0px 0px 10px #cceef9;
   -webkit-box-shadow: 0px 0px 0px 10px #cceef9;
@@ -1304,7 +1304,7 @@ section.video {
   padding: 13px 40px; 
 }
 .btn-sub:hover {
-  background: #0aabe1;
+  background: #78b453;
 }
 .subscription .form-control {
   font-family: 'Dosis', sans-serif;
@@ -1389,7 +1389,7 @@ section.contact > .container {
   background-color: transparent;
 }
 .contact .nav-tabs li .fa {
-  background: #0aabe1;
+  background: #78b453;
   text-align: center;
   border-radius: 50%;
   color: #fff;
@@ -1412,7 +1412,7 @@ section.contact > .container {
 .contact .nav-tabs > li.active > a:hover .fa,
 .contact .nav-tabs > li.active > a:focus .fa {
   background: #fff;
-  color: #0aabe1;
+  color: #78b453;
   border-radius: 50%;
   -webkit-box-shadow: 0px 0px 0px 20px rgba(255, 255, 255,0.75);
      -moz-box-shadow: 0px 0px 0px 20px rgba(255, 255, 255,0.75);
@@ -1449,7 +1449,7 @@ section.contact > .container {
 }
 .contact-info .fa {
   font-size: 50px;
-  color: #0aabe1; 
+  color: #78b453; 
   margin-bottom: 50px;
 } 
 
@@ -1491,7 +1491,7 @@ section.contact > .container {
 }
 .contact .form-control:focus {
   box-shadow: 0px 0px 0px 0px;
-  border: 1px solid #0aabe1;
+  border: 1px solid #78b453;
 }
 .contact textarea.form-control {
   height: 135px;
@@ -1500,7 +1500,7 @@ section.contact > .container {
   padding: 19px 10px;
 }
 .contact .btn:hover {
-  background: #0aabe1;
+  background: #78b453;
 } 
 #map, .map {
   height: 400px;
@@ -1529,7 +1529,7 @@ section.contact > .container {
 }
 .social-icon .fa {
   font-size: 30px;
-  color: #0aabe1;
+  color: #78b453;
   width: 80px;
   height: 80px;
   border-radius: 50%;
