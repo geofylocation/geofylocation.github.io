@@ -1,17 +1,6 @@
 /* 
 ========================================================================
-This css file will over write bootstarp css
-------------------------------------------------------------------------
-# Template Name: GRAPE
-# Template URI: http://codepassenger.com/
-# Author: CodePassenger
-# Author URI: http://codepassenger.com/
-# Description: GRAPE App Landing HTML Template by CodePassenger
-# Version: 1.0
-# License: GPL v2 or later
-# License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
-# Tags: html, template, app landing, marketing, GRAPE, CodePassenger
----------------------------------------------------------------------- 
+78b353
 ========================================================================
 */
 
@@ -61,7 +50,7 @@ body {
   text-rendering: optimizeLegibility;
 }
 a {
-  color: #00a7dd;
+  color: #78b353;
 }
 a:hover {
   color: #017298;
@@ -366,7 +355,7 @@ header .navbar-default {
   border-color: transparent;
 }
 header .navbar-default .navbar-toggle {
-  border-color: #00a7dd;
+  border-color: #78b353;
   border: 0;
   border-radius: 2px;
   margin: 0;
@@ -380,7 +369,7 @@ header .navbar-default .navbar-toggle:focus {
   background: transparent;
 }
 header .navbar-default .navbar-toggle .icon-bar {
-  background: #00a7dd;
+  background: #78b353;
 }
 header .navbar {
   border-radius: 0;
@@ -392,7 +381,7 @@ header ul > li  {
 header .navbar-default .navbar-nav > .current > a, 
 header .navbar-default .navbar-nav > .current > a:hover,
 header .navbar-default .navbar-nav > .current > a:focus {
-    background-color: #00A7DD;
+    background-color: #78b353;
     color: #FEFEFE;
 }
 
@@ -413,7 +402,7 @@ header .nav > li > a {
 }
 
 header .navbar-default .navbar-nav > li > a {
-  color: #00a7dd;
+  color: #78b353;
 }
 header .navbar-default .navbar-nav > li > a:hover {
   color: #017298;
@@ -421,12 +410,12 @@ header .navbar-default .navbar-nav > li > a:hover {
 header .navbar-default .navbar-nav > .active > a, 
 header .navbar-default .navbar-nav > .active > a:hover, 
 header .navbar-default .navbar-nav > .active > a:focus {
-  background-color: #00a7dd;
+  background-color: #78b353;
   color: #fefefe;
 }
 header .navbar-default .navbar-nav > li > a:hover, 
 header .navbar-default .navbar-nav > li > a:focus {
-  color: #00a7dd;
+  color: #78b353;
   border:none;
 }
 
@@ -714,8 +703,8 @@ h3 {
   font-size: 32px;
   margin-bottom: 10px;
   padding: 22px;
-  color: #00a8e0;
-  border: 2px solid #00a8e0;
+  color: #78b353;
+  border: 2px solid #78b353;
   width: 80px;
   height: 80px;
   border-radius: 50%;
@@ -729,9 +718,9 @@ h3 {
 }
 .app-block:hover .fa {
   color: #fff;
-  box-shadow: inset 0px 0px 0px 50px #00a8e0;
-  -webkit-box-shadow: inset 0px 0px 0px 50px #00a8e0;
-  -moz-box-shadow: inset 0px 0px 0px 50px #00a8e0;
+  box-shadow: inset 0px 0px 0px 50px #78b353;
+  -webkit-box-shadow: inset 0px 0px 0px 50px #78b353;
+  -moz-box-shadow: inset 0px 0px 0px 50px #78b353;
   border: 2px solid transparent;
 }
 
@@ -809,7 +798,7 @@ h3 {
   box-shadow: inset 0px 0px 0px 50px #fff;
   -webkit-box-shadow: inset 0px 0px 0px 50px #fff;
   -moz-box-shadow: inset 0px 0px 0px 50px #fff;
-  color: #00A7DD;
+  color: #78b353;
   border: 2px solid transparent;
 }
 
@@ -834,7 +823,7 @@ section.description {
   margin-right: 15px;
 }
 .description-list li .fa {  
-  color: #00A7DD;
+  color: #78b353;
   font-size: inherit;
 }
 
@@ -1208,7 +1197,7 @@ section.video {
 }
 .downlaod .btn:hover {
   background: #fff;
-  color: #00a7dd;
+  color: #78b353;
   z-index: 1;
 }
 .downlaod .btn:after {
@@ -1618,11 +1607,15 @@ section.contact > .container {
         -ms-transition: .3s;
 }
 #go-to-top a:hover {
-	background: #00a7dd;
+	background: #78b353;
 	color: #fff;
 	background:url(../images/ui.totop.png) no-repeat left -51px;
 }
 
 .download{
   background: #FFF !important;
+}
+
+.logo_image{
+  max-width: 400px !important;
 }
