@@ -164,7 +164,7 @@ $('.play').magnificPopup({
 
 $(".newsletter-signup").ajaxChimp({
     callback: mailchimpResponse,
-    url: "http://codepassenger.us10.list-manage.com/subscribe/post?u=6b2e008d85f125cf2eb2b40e9&id=6083876991" // Replace your mailchimp post url inside double quote "".  
+    url: "http://bitspacedevelopment.us10.list-manage.com/subscribe/post?u=ac8f0a5484c52f604a73cb23e&id=227d731676" // Replace your mailchimp post url inside double quote "".  
 });
 
 function mailchimpResponse(resp) {
