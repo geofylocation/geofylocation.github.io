@@ -1,3 +1,5 @@
+<img src="/assets/images/logo-01.png" />
+
 # Geofy
 
 Location based gamified advertising
