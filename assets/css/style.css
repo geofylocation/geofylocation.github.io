@@ -1623,4 +1623,6 @@ section.contact > .container {
 	background:url(../images/ui.totop.png) no-repeat left -51px;
 }
 
-
+.download{
+  background: #FFF !important;
+}
